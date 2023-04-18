@@ -17,3 +17,7 @@ With Tableau Desktop installed, open `DataVisDashboard.twb`. It will give an err
 This repository is accessible to the public to aid in grading and review by the instructors of Ohio State University's CSE 5544 class taught by Jian Chen. The authors of this repository hold no liability in the event that the contents are used to violate Academic Misconduct policies. Read more about Ohio State University's academic misconduct policies at https://oaa.osu.edu/academic-integrity-and-misconduct.
 
 The authors can be contacted at `dekeersgieter <d.ot> 2 <@at> osu <do.t> edu` if the contents of this repository must be removed or otherwise made inaccessable.
+
+### **Acknowledgement**
+
+Data used in this repository is publically available on Kaggle. It can be found at https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube. We thank Salvatore Rastelli, Marco Guarisco, and Marco Sallustio for making this data available.
