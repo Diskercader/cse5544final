@@ -20,4 +20,4 @@ The authors can be contacted at `dekeersgieter <d.ot> 2 <@at> osu <do.t> edu` if
 
 ### **Acknowledgement**
 
-Data used in this repository is publically available on Kaggle. It can be found at https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube. We thank Salvatore Rastelli, Marco Guarisco, and Marco Sallustio for making this data available.
+Data used in this repository is publicly available on Kaggle. It can be found at https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube. We thank Salvatore Rastelli, Marco Guarisco, and Marco Sallustio for making this data available.
